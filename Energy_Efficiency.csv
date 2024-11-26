@@ -1,0 +1,6 @@
+Country,Energy Consumption (TWh),Energy Efficiency Rating (1-10),Industry Energy Use (%),Residential Energy Use (%)
+CountryA,600,8,40,30
+CountryB,2500,6,50,25
+CountryC,1200,7,35,20
+CountryD,4000,5,55,35
+CountryE,1800,9,45,40

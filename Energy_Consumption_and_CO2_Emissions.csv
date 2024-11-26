@@ -1,0 +1,16 @@
+Country,Year,Energy Consumption (TWh),CO2 Emissions (Million tons),Population (Millions)
+CountryA,2020,500,300,50
+CountryA,2021,550,320,51
+CountryA,2022,600,340,52
+CountryB,2020,700,400,70
+CountryB,2021,750,420,71
+CountryB,2022,800,450,72
+CountryC,2020,300,150,30
+CountryC,2021,350,160,31
+CountryC,2022,400,170,32
+CountryD,2020,400,250,40
+CountryD,2021,450,260,41
+CountryD,2022,500,270,42
+CountryE,2020,600,350,60
+CountryE,2021,650,370,61
+CountryE,2022,700,390,62
